@@ -51,6 +51,14 @@ WHILE I WAS ILLEGALLY DETAINED ON OR ARROUND JUNE 20TH IN THE SJPD POLICE STATIO
 ### ATTEMPTED MURDER AT 3481
 OXYGEN DEPRIVATION, ASSAULT, HARASSMENT, BATTERY, WEAPONIZATION OF SANTA CLARA POLICE DEPARTMENT 
 
+I was coerced to return to my childhood home to 3481 where I showered and fell asleep in my former bedroom that had been set up to induce oxygen deprivation.
+
+I awoke in a panic with the feeling that my brain was starved of oxygen and had the impression I might have been poisoned by carbon monoxide.
+
+I immediately saught fresh air and after sitting by the open side door I was startled by the presence of 2 Santa Clara Police Officers who illegally trespassed into the residence through the garage unannounced.
+
+I instructed them to leave as it was unlawful of them to enter the property in such a manner.
+
 ### MEDICAL MAFIA
 AFTER MY ILLEGAL ARREST AND DETENTION THAT OCCURED SOMETIME AROUND JUNE 20-28TH I WAS TRANSPORTED TO EITHER KAISER OR SILICON VALLEY MEDICAL AND WAS STRAPPED TO A MEDICAL BED WITH WRIST AND ANKLE RESTRAINTS AND THE "MEDICAL MAFIA" ATTEMPTED TO USE A GROUP OF APPROXIMATELY 6-8 STAFF MEMBERS TO ILLEGALLY INJECT ME WITH AN UNKNOWN SUBSTANCE WHICH I ASSUME TO HAVE BEEN KETAMINE IN A WAY THAT CONSTITUTED MEDICAL TERFORISM AND ATTEMPTED MURDER
 
