@@ -3,9 +3,6 @@
 <p>Evidence of Satanic Cult Sacrifice and Institutional Corruption and Procedural Fraud – DC Superior Court & DC Bar</p>
 <p>INVESTIGATION REPORT COMPILED BY EIA DIRECTOR ELLIOTT LYNCH CODENAME: "THE EAGLE 🦅"</p>
 
-### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
-— Thomas Jefferson
-
 ## THEORY: WHY THIS CONSPIRED
 I THEORIZE THE FOLLOWING SERIES OF ATTROCITIES WERE COMMITED IN ORDER TO MAKE ELLIOTT LYNCH (MYSELF) HOMELESS AND LOCKED OUT OF THE ECONOMY ENTIRELY WHEREBY I COULD NOT MAKE ANY MONEY TO SURVIVE AND WOULD BE EXPOSED TO STARVATION, EXPOSURE TO ELEMENTS, AND ENDANGERED BY CRIMINAL ELEMENTS SUCH AS ROBBERIES OR PSYCHPATHIC MURDERERS, CANNIBALS AND OR SERIAL KILLERS AS TO INDUCE ASSASSINATION OR SUICIDE. ULTIMATELY THIS WAS DONE SO MY ORGANS COULD BE HARVESTED AND SOLD ON THE BLACKMARKET AS WELL AS MY CLOTHING AND PERSONAL AFFECTS BEING SOLD ON THE DARK WEB INCLUDING MY CLOTHES AND PARTICULARLY MY SHOES AND POSSIBLY MY VEHICLE.
 
@@ -950,4 +947,9 @@ I am adovacting for mandatory life sentences so I will not need to worry about m
 You have all proven incapable of being upstanding members of society and therefore I wouldn't think twice to have SWAT raids occur at your residences and would advocate for use of Flash Bang Grenades and CS grenade launchers as I am unofficially able to give tactical executive orders GIVEN I HAVE ESP AND AM A CONFIRMED PSYCHIC HENCE WHY I WAS ABLE TO UNCOVER AND MAP OUT THIS ENTIRE ASSASINATION PLOT.
 
 FOR EXAMPLE WITH MUSK I PASSED 'SPECIAL REQUEST' TO CS GAS OR FLASHBANG HIM FOR ALL THE TORTUE HE SPEND BILLIONS FUNDING AND WHO IS NOW FACING LIFE IN PRISON AND WILL LOSE HIS COMPANY AND FORTUNE TO LYNCH WHO STANDS TO BE THE WEALTHIEST MAN IN HUMAN HISTORY FOR WINNING THIS BLOODSPORT.
-**🦅 Whistleblowers aren't the problem. They're the firewall.**l
+
+**🦅 Whistleblowers aren't the problem. They're the firewall.**
+
+
+### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
+— Thomas Jefferson
