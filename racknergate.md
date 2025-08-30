@@ -72,6 +72,10 @@ THE OFFICER CLAIMED IT WAS AGAINST CITY ORDINANCE DESPITE THERE BEING NO SIGNAGE
   <img src="Screenshot_20250830_053717_Photos.jpg">
 </div>
 
+<div>
+  <img src="Screenshot_20250830_053818_Photos.jpg">
+</div>
+
 * REMOVAL OF URNIAL DIVIDER<div>
 <img src="20250830_051441.jpg">
 </div>
@@ -987,6 +991,5 @@ FOR EXAMPLE WITH MUSK I PASSED 'SPECIAL REQUEST' TO CS GAS OR FLASHBANG HIM FOR 
 
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
 
-
 ### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
-— Thomas Jefferson
+— Thomas Jefferson6 ppl
