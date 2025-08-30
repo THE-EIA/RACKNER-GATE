@@ -72,6 +72,10 @@ THE OFFICER CLAIMED IT WAS AGAINST CITY ORDINANCE DESPITE THERE BEING NO SIGNAGE
   <img src="Screenshot_20250830_053717_Photos.jpg">
 </div>
 
+<div>
+  <img src="Screenshot_20250830_053818_Photos.jpg">
+</div>
+
 * REMOVAL OF URNIAL DIVIDER<div>
 <img src="20250830_051441.jpg">
 </div>
