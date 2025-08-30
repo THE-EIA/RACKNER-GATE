@@ -123,6 +123,8 @@ THE CRYPTO CURRENCY WAS LATER RETURNED WHEN I ATTEMPTED TO REASON WITH MUSK ON T
 * AUROOTAH (HIRING DISCRIMINATION)
 * CHIPOTLE (HIRING DISCRIMINATION)
 * PINKBERRY (RICKY COMMITED FRAUD AND HIRING DISCRIMINATION)
+* Yogurtland (Mountain View)
+* Panda Express
 * RACKNER (UNLAWFUL TERMINATION 
 * PRIZEPICK (HIRING DISCRIMINATION)
 * NBC UNIVERSAL (ILLEGAL BLACKLISTING)
@@ -991,6 +993,5 @@ FOR EXAMPLE WITH MUSK I PASSED 'SPECIAL REQUEST' TO CS GAS OR FLASHBANG HIM FOR 
 
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
 
-
 ### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
-— Thomas Jefferson6
+— Thomas Jefferson6 ppl
