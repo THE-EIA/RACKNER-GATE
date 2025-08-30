@@ -51,21 +51,23 @@ THE OFFICER CLAIMED IT WAS AGAINST CITY ORDINANCE DESPITE THERE BEING NO SIGNAGE
 <div>
   <img src="Screenshot_20250830_053717_Photos.jpg">
 </div>
+
 * REMOVAL OF URNIAL DIVIDER<div>
 <img src="20250830_051441.jpg">
 </div>
-<div>
-  <img src="20250830_022523.jpg">
-</div>
+
 * LACK OF PAPER TOWELS AND SOAP
 <div>
   <img src="20250830_051451.jpg">
 </div>
+
 * RAW BAGELS IMPROPERLY STORED AT FRONT OF STORE
 <div>
-  <img src="20250830_022523.jpg">
+  <img src="Screenshot_20250830_055131_Photos.jpg">
 </div>
+
 * FORCED CLOSURE DESPITE BEING OPEN 24 HOURS A DAY (MOUNTAIN VIEW)
+* 
 <div>
   <img src="20250830_023712.jpg">
 </div>
