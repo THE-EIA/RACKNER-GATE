@@ -21,7 +21,7 @@
 
 ### CARTEL HQ IN MOUNTAINVIEW CA
 <div>
-  <img src="">
+  <img src="20250830_083049.jpg">
 </div>
 
 ## THEORY: WHY THIS CONSPIRED
