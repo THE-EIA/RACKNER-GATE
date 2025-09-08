@@ -8,6 +8,10 @@
 ## SUPPORT ELLIOTT LYNCH (CHUCH)
 * I HAVE BEEN BLACKLISTED THROUGHOUT THE ENTIRE GLOBAL ECONOMY FOR RITUAL SACRIFICE AND ANYTHING HELPS:
 
+## CONTACT
+EMAIL: elynch2777@gmail.com
+PHONE: CURRENTLY N/A
+
 <div class="wrap">
 <div class="card" role="region" aria-labelledby="support-title">
 <div class="title" id="support-title">
