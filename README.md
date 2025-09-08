@@ -5,8 +5,38 @@
 
 ## SUPPORT ELLIOTT LYNCH (CHUCH)
 * I HAVE BEEN BLACKLISTED THROUGHOUT THE ENTIRE GLOBAL ECONOMY FOR RITUAL SACRIFICE AND ANYTHING HELPS:
-<div>
-  <a href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574">SUPPORT CHUCH -- KEEP ME ALIVE</a>
+
+<div class="wrap">
+<div class="card" role="region" aria-labelledby="support-title">
+<div class="title" id="support-title">
+<span class="heart" aria-hidden="true">❤️</span>
+<span>SUPPORT CHUCH — KEEP ME ALIVE</span>
+<span class="heart" aria-hidden="true">❤️</span>
+</div>
+
+
+<a class="btn" aria-label="Donate on Venmo to support Chuch and help keep me safe"
+href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574" target="_blank" rel="noopener noreferrer">
+<span class="leading" aria-hidden="true">💸</span>
+<span class="label">
+<span class="big">Donate on Venmo</span>
+<span class="sub">Tap to help now</span>
+</span>
+<span class="trailing" aria-hidden="true">🔒</span>
+</a>
+
+
+<p class="note">
+Every contribution helps with food, shelter, and staying safe. Thank you for having my back. <span class="safe">🙏</span>
+</p>
+
+
+<div class="mini-links">
+<a href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574" target="_blank" rel="noopener noreferrer">Open Venmo link</a>
+<span aria-hidden="true">·</span>
+<a href="#" onclick="navigator.clipboard.writeText('https://venmo.com/code?user_id=2271592985919489004&created=1757298574'); this.textContent='Copied!'; this.style.opacity=.8; return false;">Copy link</a>
+</div>
+</div>
 </div>
 
 I DO NOT WANT TO DIE OR BE MURDERERED ON THE STREETS
