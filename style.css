@@ -1,0 +1,33 @@
+· html
+    :root {
+    .wrap {
+    .btn .sub { font-size: .78em; font-weight: 700; opacity: .85; }
+
+    .note {
+      text-align: center;
+      font-size: .9rem;
+      opacity: .8;
+      margin-top: 1rem;
+    }
+
+    .safe { color: #bde8ff; }
+
+    .mini-links {
+      margin-top: .65rem;
+      display: flex;
+      justify-content: center;
+      gap: .75rem;
+      flex-wrap: wrap;
+      font-size: .9rem;
+    }
+
+    .mini-links a {
+      color: #bde8ff;
+      text-underline-offset: 3px;
+    }
+
+    /* Reduce motion if user prefers */
+    @media (prefers-reduced-motion: reduce) {
+      .title .heart { animation: none; }
+      .btn { transition: none; }
+    }
