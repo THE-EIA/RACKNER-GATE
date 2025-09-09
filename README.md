@@ -16,7 +16,6 @@
 <span class="heart" aria-hidden="true">❤️</span>
 </div>
 
-
 <a class="btn" aria-label="Donate on Venmo to support Chuch and help keep me safe"
 href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574" target="_blank" rel="noopener noreferrer">
 <span class="leading" aria-hidden="true">💸</span>
@@ -65,8 +64,9 @@ ISREAL AND MOSSAD HAVE EXTENSIVELY DISTANCED THEMSELVES THROUGH DIRECT CULPABILI
 
 
 ## MOUNTAIN VIEW PD STING OPERATION OR FBI SETUP
+* SETUP DEVICES THAT LIKELY CONTAIN SURVEILLANCE EQUIPMENT AND POSSIBLY VIRSUSES OR ROOTKIT SODTWARE 
 <div>
-  <img src="">
+  <img src="PXL_20250909_053438742.jpg">
 </div>
 <div>
   <img src="">
