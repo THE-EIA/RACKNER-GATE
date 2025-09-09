@@ -45,6 +45,7 @@ I DO NOT WANT TO DIE OR BE MURDERERED ON THE STREETS
 
 ## CONTACT
 EMAIL: elynch2777@gmail.com
+
 <div>
   <a href="tel:65053730520" aria-label="Call 650-537-30520" style="text-decoration:none;color:inherit;">
   650-537-30520
@@ -60,6 +61,11 @@ ISREAL AND MOSSAD HAVE EXTENSIVELY DISTANCED THEMSELVES THROUGH DIRECT CULPABILI
 * SHADOW BANNING AND CONTENT BLOCKING
 <div>
   <img src="Screenshot_20250908-111402.png"
+    </div>
+
+## EVIDENCE OF POLICE BRUTALITY FROM 6/20/25
+<div>
+  <img src="Screenshot_20250819-065652.png">
 </div>
 
 ## WAR CRIMES, TORTURE, ATTROCITIES
