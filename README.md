@@ -26,7 +26,6 @@ href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574" tar
 <span class="trailing" aria-hidden="true">🔒</span>
 </a>
 
-
 <p class="note">
 Every contribution helps with food, shelter, and staying safe. Thank you for having my back. <span class="safe">🙏</span>
 </p>
@@ -70,7 +69,7 @@ ISREAL AND MOSSAD HAVE EXTENSIVELY DISTANCED THEMSELVES THROUGH DIRECT CULPABILI
 * DELETING POSTS
 EXHIBIT A: DELETED POST
 <div>
-  <img src="Screenshot_20250909-150116.png">
+  <img src="Screenshot_20250909-142807.png">
 </div>
 
 ## INFORMATION WARFARE: META
