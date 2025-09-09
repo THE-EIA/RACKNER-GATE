@@ -45,11 +45,11 @@ I DO NOT WANT TO DIE OR BE MURDERERED ON THE STREETS
 
 ## CONTACT
 EMAIL: elynch2777@gmail.com
-
-<a href="tel:65053730520" aria-label="Call 650-537-30520" style="text-decoration:none;color:inherit;">
+<div>
+  <a href="tel:65053730520" aria-label="Call 650-537-30520" style="text-decoration:none;color:inherit;">
   650-537-30520
 </a>
-
+</div>
 
 ## THEORY: WHAT IS #RACKNERGATE
 ISREALI CONSPIRACY TO KILL A VIP SCIENTIST AND BUSINESSMAN (ELLIOTT LYNCH IS CEO OF RASTER-FARI LLC OF CALIFORNIA AND PRESIDENT OR ITS SUBSIDIARY RASTER.AI)
