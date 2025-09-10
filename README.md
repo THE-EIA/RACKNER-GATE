@@ -8,16 +8,16 @@
 ## SUPPORT ELLIOTT LYNCH (CHUCH)
 * I HAVE BEEN BLACKLISTED THROUGHOUT THE ENTIRE GLOBAL ECONOMY FOR RITUAL SACRIFICE AND ANYTHING HELPS:
 
+<div>
+  <img src="screenshot_20250909-173346.png">
+</div>
+
 <div class="wrap">
 <div class="card" role="region" aria-labelledby="support-title">
 <div class="title" id="support-title">
 <span class="heart" aria-hidden="true">❤️</span>
 <span>SUPPORT CHUCH — KEEP ME ALIVE</span>
 <span class="heart" aria-hidden="true">❤️</span>
-</div>
-
-<div>
-  <img src="screenshot_20250909-173346.png">
 </div>
 
 <a class="btn" aria-label="Donate on Venmo to support Chuch and help keep me safe"
