@@ -104,6 +104,8 @@ EXHIBIT B: FURTHER EVIDENCE OF INSTANT POST DELETION
   <img src="Screenshot_20250910-045200.png">
 </div>
 
+POSTS DELETED WITHIN SECONDS
+
 <div>
   <img src="Screenshot_20250910-045304.png">
 </div>
