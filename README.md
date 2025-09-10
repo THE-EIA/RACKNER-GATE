@@ -9,7 +9,7 @@
 * I HAVE BEEN BLACKLISTED THROUGHOUT THE ENTIRE GLOBAL ECONOMY FOR RITUAL SACRIFICE AND ANYTHING HELPS:
 
 <div>
-  <img src="screenshot_20250909-173346.png">
+  <img src="Screenshot_20250909-173346.png">
 </div>
 
 <div class="wrap">
