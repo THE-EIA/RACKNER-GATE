@@ -95,6 +95,7 @@ EXHIBIT A: DELETED POST
 <div>
   <img src="Screenshot_20250910-045200.png>
 </div>
+
 EXHIBIT B: FURTHER EVIDENCE OF INSTANT POST DELETION
 <div>
   <img src="Screenshot_20250910-045304.png">
