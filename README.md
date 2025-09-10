@@ -16,6 +16,10 @@
 <span class="heart" aria-hidden="true">❤️</span>
 </div>
 
+<div>
+  <img src="">
+</div>
+
 <a class="btn" aria-label="Donate on Venmo to support Chuch and help keep me safe"
 href="https://venmo.com/code?user_id=2271592985919489004&created=1757298574" target="_blank" rel="noopener noreferrer">
 <span class="leading" aria-hidden="true">💸</span>
